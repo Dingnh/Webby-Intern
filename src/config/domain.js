@@ -1,0 +1,1 @@
+export const domain = "https://graph-api-test.webby.asia"
